@@ -12,3 +12,5 @@ Material do grupo de estudos
 - Cleiton
 - Ivan
 - Lucas
+
+# Finalizamos o teste praático básico de git.
